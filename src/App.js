@@ -4,7 +4,7 @@ import FeedbackStats from "./components/FeedbackStats";
 import FeedbackForm from "./components/FeedbackForm";
 import AboutPage from './components/pages/AboutPage';
 import AboutIconLink from './components/AboutIconLink';
-import { BrowserRouter as Router, Route, Routes, NavLink } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { FeedbackProvider } from './context/FeedbackContext';
 
 function App() {
