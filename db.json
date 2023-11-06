@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback 1 from mock backend"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is feedback 2 from mock backend"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "This is feedback 3 from mock backend"
+    },
+    {
+      "text": "This is new data mockup edited 3",
+      "rating": 8,
+      "id": 4
+    }
+  ]
+}
